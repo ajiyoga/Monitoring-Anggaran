@@ -36,7 +36,7 @@ User: Memiliki akses terbatas sesuai kebutuhan pengguna.
 
 ## 📱 Screenshot Website
 
-## 🔐 Halaman Login
+🔐 Halaman Login
 <img width="1920" height="911" alt="halaman login" src="https://github.com/user-attachments/assets/90b0bab7-c8de-47c7-b437-c172aa426827" />
 
 ## 📊 Dashboard
