@@ -15,7 +15,7 @@ Website monitoring ini berfungsi sebagai platform digital yang memungkinkan penc
 - c
 
 ## 🚀 Instalasi & Setup
-# Syarat
+Syarat
 - PHP 8.2.12
 - Composer
 - MySQL
