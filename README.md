@@ -1,4 +1,4 @@
-# 🌐 Pengembangan Sistem Monitoring Anggaran dan Program Kerja Berbasis Website 
+# Pengembangan Sistem Monitoring Anggaran dan Program Kerja Berbasis Website 
 
 Website monitoring ini berfungsi sebagai platform digital yang memungkinkan pencatatan dan visualisasi data anggaran perusahaan secara real-time. Sistem akan menampilkan perbandingan antara alokasi anggaran dengan realisasi, menampilkan grafik batang dan diagram pie untuk mempermudah analisis. Dengan adanya sistem ini, perusahaan dapat lebih cepat dalam mengambil keputusan berbasis data yang akurat dan transparan
 
