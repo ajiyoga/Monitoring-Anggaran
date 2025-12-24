@@ -11,16 +11,14 @@ Website monitoring ini berfungsi sebagai platform digital yang memungkinkan penc
   Composer
   MySQL
 
-👤 Default Login
-+----+-------------------+----------+----------+
-| ID | Username          | Password | Role     |
-+----+-------------------+----------+----------+
-| 1  | admin@gmail.com   | password | admin    |
-+----+-------------------+----------+----------+
-| 2  | manajer@gmail.com | password | manajer  |
-+----+-------------------+----------+----------+
-| 3  | user@gmail.com    | password | user     |
-+----+-------------------+----------+----------+
+### 👤 Default Login
+
+| 🔐 Role | 👤 Username | 🔑 Password |
+|--------|------------|-------------|
+| Admin  | `admin`    | `admin123` |
+| Kasir | `kasir`    | `kasir123` |
+| Manajer | `manajer` | `manajer123` |
+
 
 📌 Keterangan
 Admin: Memiliki akses penuh terhadap sistem.
