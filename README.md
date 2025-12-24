@@ -21,7 +21,9 @@ Website monitoring ini berfungsi sebagai platform digital yang memungkinkan penc
 
 📌 Keterangan
 Admin: Memiliki akses penuh terhadap sistem.
+
 Manajer: Bertugas melakukan validasi, approve dan monitoring data.
+
 User: Memiliki akses terbatas sesuai kebutuhan pengguna.
 
 📱 Screenshot Website
