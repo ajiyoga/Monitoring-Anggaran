@@ -50,5 +50,4 @@ User: Memiliki akses terbatas sesuai kebutuhan pengguna.
 <img width="1899" height="905" alt="program kerja" src="https://github.com/user-attachments/assets/f314e4c3-2f29-4110-ad21-83a9e4749c19" />
 
 ## 📞 Kontak
-## 📧 Email: aji374017@gmail.com
-
+📧 **Email**: aji374017@gmail.com
