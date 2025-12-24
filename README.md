@@ -22,6 +22,7 @@ Website monitoring ini berfungsi sebagai platform digital yang memungkinkan penc
 | Admin    | `admin`    | `admin@gmail.com`    | `password`   |
 | Manajer  | `manajer`  | `manajer@gmail.com`  | `password`   |
 | User     | `user`     | `user@gmail.com`     | `password`   |
+
 ⚠️ Untuk mengubah email/password default setelah instalasi untuk keamanan sistem!
 
 📌 Keterangan
