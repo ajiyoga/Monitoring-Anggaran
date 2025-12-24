@@ -36,7 +36,9 @@ User: Memiliki akses terbatas sesuai kebutuhan pengguna.
 <img width="1920" height="911" alt="halaman login" src="https://github.com/user-attachments/assets/90b0bab7-c8de-47c7-b437-c172aa426827" />
 
 📊 Dashboard
-![Dashboard Salam](screenshots/dashboard.png)
+<img width="1898" height="831" alt="dashboard" src="https://github.com/user-attachments/assets/9bf4cb69-d494-490d-aaa2-271891841b9f" />
 
 📈 Program Kerja
+<img width="1899" height="905" alt="program kerja" src="https://github.com/user-attachments/assets/f314e4c3-2f29-4110-ad21-83a9e4749c19" />
+
 
