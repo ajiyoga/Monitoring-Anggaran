@@ -1,4 +1,4 @@
-<img width="1920" height="911" alt="halaman login" src="https://github.com/user-attachments/assets/90b0bab7-c8de-47c7-b437-c172aa426827" />🌐 Pengembangan Sistem Monitoring Anggaran dan Program Kerja Berbasis Website 
+🌐 Pengembangan Sistem Monitoring Anggaran dan Program Kerja Berbasis Website 
 
 Website monitoring ini berfungsi sebagai platform digital yang memungkinkan pencatatan dan visualisasi data anggaran perusahaan secara real-time. Sistem akan menampilkan perbandingan antara alokasi anggaran dengan realisasi, menampilkan grafik batang dan diagram pie untuk mempermudah analisis. Dengan adanya sistem ini, perusahaan dapat lebih cepat dalam mengambil keputusan berbasis data yang akurat dan transparan
 
@@ -33,7 +33,7 @@ User: Memiliki akses terbatas sesuai kebutuhan pengguna.
 📱 Screenshot Website
 
 🔐 Halaman Login
-![Login Page](screenshots/halaman.login.PNG)
+<img width="1920" height="911" alt="halaman login" src="https://github.com/user-attachments/assets/90b0bab7-c8de-47c7-b437-c172aa426827" />
 
 📊 Dashboard
 
