@@ -13,12 +13,11 @@ Website monitoring ini berfungsi sebagai platform digital yang memungkinkan penc
 
 ### 👤 Default Login
 
-| 🔐 Role | 👤 Username | 🔑 Password |
-|--------|------------|-------------|
-| Admin  | `admin`    | `admin123` |
-| Kasir | `kasir`    | `kasir123` |
-| Manajer | `manajer` | `manajer123` |
-
+| 🔐 Role   | 👤 Username | 📧 Email              | 🔑 Password   |
+|----------|------------|----------------------|---------------|
+| Admin    | `admin`    | `admin@gmail.com`    | `password`   |
+| Manajer  | `manajer`  | `manajer@gmail.com`  | `password`   |
+| User     | `user`     | `user@gmail.com`     | `password`   |
 
 📌 Keterangan
 Admin: Memiliki akses penuh terhadap sistem.
