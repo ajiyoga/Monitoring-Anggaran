@@ -8,7 +8,6 @@ Website monitoring ini berfungsi sebagai platform digital yang memungkinkan penc
 
 📈 Program Kerja
 
-
 🚀 Instalasi & Setup
 
 - Syarat
@@ -23,6 +22,7 @@ Website monitoring ini berfungsi sebagai platform digital yang memungkinkan penc
 | Admin    | `admin`    | `admin@gmail.com`    | `password`   |
 | Manajer  | `manajer`  | `manajer@gmail.com`  | `password`   |
 | User     | `user`     | `user@gmail.com`     | `password`   |
+⚠️ Untuk mengubah email/password default setelah instalasi untuk keamanan sistem!
 
 📌 Keterangan
 
@@ -44,4 +44,6 @@ User: Memiliki akses terbatas sesuai kebutuhan pengguna.
 📈 Program Kerja
 <img width="1899" height="905" alt="program kerja" src="https://github.com/user-attachments/assets/f314e4c3-2f29-4110-ad21-83a9e4749c19" />
 
+📞 Kontak
+📧 Email: aji374017@gmail.com
 
