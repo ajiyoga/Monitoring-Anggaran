@@ -6,6 +6,8 @@ Website monitoring ini berfungsi sebagai platform digital yang memungkinkan penc
 
 📊 Dashboard
 
+📈 Program Kerja
+
 🚀 Instalasi & Setup
 
 - Syarat
