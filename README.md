@@ -5,14 +5,19 @@ Website monitoring ini berfungsi sebagai platform digital yang memungkinkan penc
 ## ✨ Fitur Utama
 
 📊 Dashboard
-- a
-- b
-- c
+- Filter Tampilkan Anggaran berdasarkan persentase yang diinput
+- Filter Tahun yang digunakan untuk mereset tampilan dari dashboard dan program kerja secara keseluruhan
+- Terdapat Pop up diagram lingkaran ketika diklik pada diagram batang yang akan menampilkan ringkasan anggaran yang telah digunakan Program Kerja
 
 📈 Program Kerja
-- a
-- b
-- c
+- Kartu Anggaran per kategori yang didukung oleh detail tombol yang
+menampilkan detail singkat penggunaan anggaran
+- Dana/Anggaran dari Anggaran kategori A ke kategori Anggaran B dan C
+- Filter kategori Anggaran (Anggaran Pemeliharaan, Anggaran Perlengkapan Perangkat, dan Anggaran Komunikasi)
+- Pencarian Program Kerja sesuai input
+- Detail Program Kerja yang menampilkan keseluruhan dari deskripsi program pekerjaan yang dibuat
+- Aksi (Tambah Progres dan Hapus) Tambah Progres yang digunakan untuk mencatat kemajuan yang telah dilaksanakan pada program kerja tersebut, dan Hapus jika ingin menghapus program kerja yang telah dibuat
+- Tambah Program Kerja yang digunakan untuk membuat program kerja secara rinci yang terdiri dari (Nama Pekerjaan, Deskripsi Pekerjaan, Penanggung Jawab, Vendor, Target waktu, Kategori, Dana/Anggaran yang diperlukan)
 
 ## 🚀 Instalasi & Setup
 Syarat
